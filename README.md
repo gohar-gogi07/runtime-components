@@ -1,2 +1,1 @@
-# runtime-components
-cs 193 first git repo
+# Gohar's cs 193 repo
